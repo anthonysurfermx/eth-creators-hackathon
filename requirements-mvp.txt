@@ -1,0 +1,30 @@
+# Uniswap Creator Bot - MVP Requirements
+# Minimal dependencies for getting started
+
+# Core Framework
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-telegram-bot==21.4
+
+# OpenAI (Sora 2 + GPT-4 + AgentKit)
+openai==1.54.0
+
+# Supabase (NO necesitamos psycopg2 porque usamos Supabase API directamente)
+supabase==2.7.4
+
+# HTTP & APIs
+httpx==0.27.0
+aiohttp==3.10.5
+requests==2.32.3
+
+# Video Processing (FFmpeg wrapper)
+ffmpeg-python==0.2.0
+Pillow==10.4.0
+
+# Data & Validation
+pydantic>=2.7.1,<3.0.0
+pydantic-settings==2.5.2
+
+# Utils
+python-dotenv==1.0.1
+loguru==0.7.2
