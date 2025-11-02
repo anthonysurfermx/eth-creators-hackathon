@@ -259,17 +259,7 @@ The platform supports multiple content types:
 5. **Multi-Chain** - Cross-chain, L2 networks
 6. **Tech Innovation** - Blockchain infrastructure
 
----
 
-## 📊 Platform Statistics
-
-Current metrics (as of demo):
-- 🎬 **72+ Videos Generated**
-- 👥 **4 Active Creators**
-- 📈 **143K+ Total Views**
-- 🌍 **Multi-language Support**
-
----
 
 ## 🔮 Future Roadmap
 
@@ -358,12 +348,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ---
 
-## 📞 Contact
-
-- 🌐 Website: [eth-creators.vercel.app](https://eth-creators.vercel.app)
-- 🤖 Telegram: [@ethcreators_bot](https://t.me/ethcreators_bot)
-- 📧 Email: your@email.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
